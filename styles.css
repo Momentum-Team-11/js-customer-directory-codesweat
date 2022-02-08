@@ -1,0 +1,15 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+}
+
+.customers {
+    height: 50px;
+    width: 50px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
